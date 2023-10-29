@@ -1,0 +1,12 @@
+# ninja log v5
+1	140	7203202022666278	build.ninja	3197cac59d9e75a4
+42	116	7202579308079092	Code_Vulnerabilities.exe	229c0679b4e1e6a
+1	364	7202572392567946	CMakeFiles/Code_Vulnerabilities.dir/Buffer-Overflow/main.cpp/main.cpp.obj	768ef981d86ddc31
+4	65	7202578793503076	CMakeFiles/Code_Vulnerabilities.dir/Integer-Overflow/main.cpp/Interger-Overflow.cpp.obj	6888700a08964892
+3	42	7202579307352389	CMakeFiles/Code_Vulnerabilities.dir/Null-Pointer-Deference/main.cpp/Null-Pointer-Deference.cpp.obj	287e4c893e60a3
+13	380	7202578796654435	CMakeFiles/Code_Vulnerabilities.dir/Buffer-Overflow/main.cpp/Buffer-Overflow.cpp.obj	f9ad053bf5c0ad2d
+9	71	7202578793568139	CMakeFiles/Code_Vulnerabilities.dir/Format-String/main.cpp/Format-String.cpp.obj	d47225a499c9637c
+1	211	7203202022666278	build.ninja	3197cac59d9e75a4
+7	56	7203202023437439	CMakeFiles/Code_Vulnerabilities.dir/Format-String/main.cpp/Format-String.cpp.obj	d47225a499c9637c
+4	357	7203202026452434	CMakeFiles/Code_Vulnerabilities.dir/Null-Pointer-Deference/main.cpp/Null-Pointer-Deference.cpp.obj	287e4c893e60a3
+12	374	7203202026617685	CMakeFiles/Code_Vulnerabilities.dir/Integer-Overflow/main.cpp/Integer-Overflow.cpp.obj	76d94cc9b1496cfc
