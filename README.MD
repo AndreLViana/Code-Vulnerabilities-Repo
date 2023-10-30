@@ -4,6 +4,8 @@ This repository is designed to store vulnerable code that can be exploited.
 
 The code is not very complex, it's just for learning purposes, if you wish to run any of them, **you will need to comment** the other codes that are not supposed to be considered in the execution.
 
+To make life easier, just insert ```/*``` and ```*/``` in the edges of the code that you don't want to run.
+
 Explanations about the vulnerabilities can be found below:
 
 1. **Buffer Overflow**:
